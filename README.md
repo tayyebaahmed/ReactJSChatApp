@@ -1,6 +1,6 @@
 # This is a Chat Application made with ReactJS and Axios for APIs calls
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Login to the Chat Room as Admin or Normal User. User can send text messages and images as well. Admin can add more members to the Chat Room.
+Admin Login => Username:tabby Password:123123
 
 ## Available Scripts
 
